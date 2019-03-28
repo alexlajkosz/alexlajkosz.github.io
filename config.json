@@ -152,8 +152,7 @@
         },
         "version": "2.11",
         "id": "widgets_Splash_Widget_32",
-        "name": "Splash",
-        "config": "configs/Splash/config_widgets_Splash_Widget_32.json"
+        "name": "Splash"
       },
       {
         "uri": "widgets/ZoomSlider/Widget",
@@ -270,10 +269,18 @@
         "id": "widgets_PopupPanel_Widget_36"
       },
       {
+        "name": "InfoSummary",
+        "version": "2.11",
+        "IsController": false,
+        "uri": "widgets/InfoSummary/Widget",
+        "index": 6,
+        "id": "widgets_InfoSummary_Widget_37"
+      },
+      {
         "name": "SituationAwareness",
         "version": "2.11",
         "uri": "widgets/SituationAwareness/Widget",
-        "index": 5,
+        "index": 7,
         "id": "widgets_SituationAwareness_Widget_38",
         "position": {
           "relativeTo": "map"
